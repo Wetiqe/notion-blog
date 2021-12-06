@@ -23,6 +23,7 @@ export const PageHead: React.FC<types.PageProps> = ({ site }) => {
 
       <meta name='theme-color' content='#EB625A' />
       <meta property='og:type' content='website' />
+      <meta name="google-site-verification" content="CNJWnPytl4iFDq-b9C7KXdE-r068BLWwZ2StHT392gw" />
     </Head>
   )
 }
