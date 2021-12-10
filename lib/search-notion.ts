@@ -1,4 +1,4 @@
-// import ky from 'ky'
+import ky from 'ky'
 import fetch from 'isomorphic-unfetch'
 import pMemoize from 'p-memoize'
 
@@ -31,9 +31,9 @@ async function searchNotionImpl(
     })
     .then((res) => res.json())
 
-  // return ky
-  //   .post(api.searchNotion, {
-  //     json: params
-  //   })
-  //   .json()
+   return ky
+     .post(api.searchNotion, {
+       json: params
+     })
+     .json()
 }
