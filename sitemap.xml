@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.wetiqe.xyz/</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/cognitive-neuroscience</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/data-science-and-statistics</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/computational-neuroscience</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/computer-science</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/run-fsl-in-jupyter-notebook</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/install-different-kernels-in-jupyter</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/fsl-python-packages-fslpy-and-fsleyes</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/use-fsleyes-via-shell-or-python</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/permutation-testbootstrap-and-mote-carlo-method</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/resume</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/notion-digital-resume</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-1-concepts-of-time-series</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-2-linear-regression-with-time-series</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-3-trend</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-4-seasonality</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-5-serial-dependence</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-6-hybrid-model-combine-trend-seasonality-and-cycle</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-7-forcasting-with-ml</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/random-forest</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/data-centering-standardizing</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/build-a-package</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/generate-and-install-requirementstxt</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/import</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/python</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/deal-with-categorical-variables</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/python-strftime-cheatsheet</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-1-handling-missing-values</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-2-scalling-vs-normalization</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-3-parse-date</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-4-character-encodings</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-5-incosistent-data-entry</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/calculate-percentile</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/npchar-numpy</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/change-the-data-type-of-a-dataframe</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/get-the-index-of-the-true-value-in-a-pd-boolean-series</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/pandas-indexing</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/python--how-to-deal-with-settingwithcopywarning-in-pandas--stack-overflow</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/database-api-api-in-python</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/gantt-chart</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/draw-coordinates-system-in-matplotlib</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/fundamental-plot-in-matplotlib</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-1-intro-to-feature-engineering</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-2-feature-utility-metric-based-on-mutual-information</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-3-creating-features</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-4-get-new-feature-with-clustering-k-means-as-example</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-5-principle-component-analysis</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/section-6-target-encoding</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/anaconda-condapython</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/jupyter-notebook</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/color-guide-to-seaborn-palettes-seaborn-arguably-has-one-of-the-most-by-mojomoon-medium</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/create-a-triangle-mask-for-seabornheatmap</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/seaborn-boxplot</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/calculate-permutation-and-combination</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/permutation-bootstrap-and-monte-carlo-simulation</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/cross-validation</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/data-leakage</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/xgboost</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/s1-use-cases-for-model-insights-why-and-when-do-you-need-insights</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/s2-permutation-importance</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/s3-partial-dependence-plots-how-does-each-feature-affect-your-predictions</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/s4-shap-values-understand-individual-predictions</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/s5-advanced-uses-of-shap-values</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/bayes-with-a-binary-hidden-state</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/linear-regression-with-mle</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/linear-regression-with-mse</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/bootstrapping-and-permutation</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/multiple-linear-regression</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/polynomial-regression</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/git</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/use-git-locally</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/intro-to-version-control-systemvcs-git</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/github</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/git-cheat-sheet</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/school</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/university</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/startup-llc</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/creativity-inc</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ios-app</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/marayai</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/read-books</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/project-1</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/project-2</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/project-3</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/numpy</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/google</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/enter</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/shift-enter</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-enter</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/alt-enter</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/y</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/m</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/r</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/1</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/2</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/3</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/4</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/5</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/6</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/up</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/k</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/down</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/j</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/shift-k</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/shift-j</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/a</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/b</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/x</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/c</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/shift-v</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/v</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/z</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/dd</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/shift-m</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-s</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/s</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/l</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/o</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/shift-o</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/esc</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/q</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/h</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ii</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/00</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/shift</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/shift-space</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/space</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/shift-tab</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-a</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-z</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-shift-z</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-y</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-home</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-up</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-end</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-down</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-left</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-right</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-backspace</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-delete</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-m</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-shift</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.wetiqe.xyz/ctrl-shift-subtract</loc>
+  <lastmod>2021-12-25T12:43:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
