@@ -280,7 +280,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
         }
       />
       <script src="https://utteranc.es/client.js"
-              repo="[ENTER REPO HERE]"
+              repo="Wetiqe/new-notion-blog"
               issue-term="pathname"
               theme="github-light"
               crossOrigin="anonymous"
