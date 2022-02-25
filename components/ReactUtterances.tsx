@@ -18,7 +18,7 @@ export type Theme = 'github-light'
   | 'photon-dark'
 
 interface ReactUtterancesProps {
-  repo: 'Wetiqe/new-notion-blog'
+  repo: string
   issueMap: MappingType
   issueTerm?: string
   issueNumber?: number
