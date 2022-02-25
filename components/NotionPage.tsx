@@ -280,11 +280,11 @@ export const NotionPage: React.FC<types.PageProps> = ({
         }
       />
       <script src="https://utteranc.es/client.js"
-              repo="Wetiqe/new-notion-blog"
-              issue-term="pathname"
-              theme="github-light"
-              crossOrigin="anonymous"
-              async>
+            repo="Wetiqe/new-notion-blog"
+            issue-term="pathname"
+            theme="github-light"
+            crossOrigin="anonymous"
+            async>
       </script>
       <GitHubShareButton />
     </TwitterContextProvider>
