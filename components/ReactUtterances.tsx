@@ -2,16 +2,14 @@ import React from 'react'
 
 import styles from './styles.module.css'
 
-export type MappingType =
-  | 'pathname'
+export type MappingType = 'pathname'
   | 'url'
   | 'title'
   | 'og:title'
   | 'issue-number'
   | 'issue-term'
 
-export type Theme =
-  | 'github-light'
+export type Theme = 'github-light'
   | 'github-dark'
   | 'preferred-color-scheme'
   | 'github-dark-orange'
@@ -20,7 +18,7 @@ export type Theme =
   | 'photon-dark'
 
 interface ReactUtterancesProps {
-  repo: string
+  repo: 'Wetiqe/new-notion-blog'
   issueMap: MappingType
   issueTerm?: string
   issueNumber?: number
